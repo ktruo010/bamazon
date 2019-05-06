@@ -19,7 +19,7 @@ Once you have chosen an item, you will be asked how many of that item you wish t
 
 ## Purchase Confirmation
 Once you have selected an item and quantity, you will be asked to confirm your purchase. Your choices will either be "Confirm" or "Cancel". If you confirm, your purchase will be completed and reflected in the mySQL database. If you select "Cancel", the transaction will be canceled.
-![alt text](./images/user-prompt-confirmation.png)
+![alt text](./images/user-prompt-confirm.png)
 
 ## Updated mySQL database
 As you can see, the bamazon database has been updated with the new inventory amount for that selected product.
